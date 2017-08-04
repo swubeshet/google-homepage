@@ -1,0 +1,1 @@
+This is a project from Odin Project. I will build the Google.com homepage and the search results page.
